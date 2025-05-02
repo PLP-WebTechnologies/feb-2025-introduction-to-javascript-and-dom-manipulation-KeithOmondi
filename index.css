@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    margin: 10px 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  #style-target {
+    padding: 10px;
+    border: 2px solid #ccc;
+    transition: all 0.3s ease;
+  }
+  
